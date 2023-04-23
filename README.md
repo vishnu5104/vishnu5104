@@ -46,6 +46,4 @@ React.js: I have extensive experience using this powerful Javascript library to 
 ---
 [![](https://visitcount.itsvg.in/api?id=vishnu5104&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 -->
